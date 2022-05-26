@@ -14,15 +14,20 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@afragen](https://profiles.wordpress.org/afragen/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/afragen)
 
-[Aurooba Ahmed](https://aurooba.com/)
-  - Twitter: [@aurooba](https://twitter.com/aurooba)
-  - WordPress: [@aurooba](https://profiles.wordpress.org/aurooba/)
-  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/aurooba)
+[Cameron Jones](https://cameronjonesweb.com.au/)
+  - Twitter: [@cameronjonesweb](https://twitter.com/cameronjonesweb)
+  - WordPress: [cameronjonesweb](https://profiles.wordpress.org/cameronjonesweb/)
+  - Sponsor: [Patreon](https://www.patreon.com/cameronjonesweb)
 
 [Ben Meredith](https://benandjacq.com/)
   - Twitter: [@benUNC](https://twitter.com/benunc)
   - WordPress: [@benmeredithgmailcom](https://profiles.wordpress.org/benmeredithgmailcom/)
   - Sponsor: [GiveWP Donation Page](https://benlikes.us/donate)
+
+[Aurooba Ahmed](https://aurooba.com)
+  - Twitter: [@aurooba](https://twitter.com/aurooba)
+  - WordPress: [@aurooba](https://profiles.wordpress.org/aurooba)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/aurooba)
 
 [Christina Workman](https://christinaworkman.ca/)
   - Twitter: [@amethystanswers](https://twitter.com/amethystanswers)
