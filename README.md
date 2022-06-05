@@ -29,6 +29,11 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@benmeredithgmailcom](https://profiles.wordpress.org/benmeredithgmailcom/)
   - Sponsor: [GiveWP Donation Page](https://benlikes.us/donate)
 
+[Cameron Jones](https://cameronjonesweb.com.au/)
+  - Twitter: [@cameronjonesweb](https://twitter.com/cameronjonesweb)
+  - WordPress: [@cameronjonesweb](https://profiles.wordpress.org/cameronjonesweb/)
+  - Sponsor: [Patreon](https://www.patreon.com/cameronjonesweb)
+
 [Christina Workman](https://christinaworkman.ca/)
   - Twitter: [@amethystanswers](https://twitter.com/amethystanswers)
   - WordPress: [@amethystanswers](https://profiles.wordpress.org/amethystanswers/)
